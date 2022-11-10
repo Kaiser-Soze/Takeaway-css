@@ -1,0 +1,29 @@
+#Notice {
+  margin-top: 0px;
+  margin-bottom: 5px;
+  text-align: center;}
+#Item {
+  text-align: left;
+  width: 49%;
+  display: inline-block;
+  margin-top: 0px;
+  margin-bottom: 0px;}
+#Price {
+  text-align: right;
+  width: 50%;
+  display: inline-block;
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 0px;}
+#Extra {
+  text-align: right;
+  width: 24%;
+  display: inline-block;
+  font-weight: normal;
+  margin-top: 0px;
+  margin-bottom: 0px;}
+#Blurb {margin-bottom: 3px}
+#Title {
+  text-align: center;
+  margin-top: 45px;
+  margin-bottom: 20px;}
